@@ -21,3 +21,4 @@ By enabling trustless task tracking, ChainFlux envisions a future where collabor
 - Tokenized rewards for task completion.  
 - Layer-2 deployment for faster and cheaper transactions.
 contract address=0x1789367515b8315A4096913D9827a7CBff0b29e6
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a840117-e8a0-48f4-9041-747190e1f4c7" />
